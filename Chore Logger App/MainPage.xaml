@@ -9,6 +9,11 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="494,86,0,0" Text="Chore Logger" TextWrapping="Wrap" VerticalAlignment="Top" Height="88" Width="545" RenderTransformOrigin="0.493,0.515" FontSize="72" UseLayoutRounding="False" d:LayoutRounding="Auto" FontFamily="Broadway" FontWeight="Bold">
+            <TextBlock.RenderTransform>
+                <CompositeTransform SkewY="1.003" TranslateY="2.935"/>
+            </TextBlock.RenderTransform>
+        </TextBlock>
 
     </Grid>
 </Page>
